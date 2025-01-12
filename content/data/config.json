@@ -27,7 +27,7 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
+                "altText": "behance",
                 "label": "behance",
                 "url": "https://twitter.com/netlify",
                 "icon": "twitter"
