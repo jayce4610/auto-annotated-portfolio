@@ -121,6 +121,11 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
+        actions: []
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
         title: Item Title
         subtitle: ''
         text: >-
@@ -128,11 +133,6 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions: []
         styles:
           self:
             textAlign: left
