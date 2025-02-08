@@ -47,6 +47,24 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: |
+      /\* Define animation keyframes \*/
+
+      @keyframes fadeIn {
+
+      from { opacity: 0; }
+
+      to { opacity: 1; }
+
+      }
+
+      /\* Apply animation to a heading element \*/
+
+      h1 {
+
+      animation: fadeIn 1s ease-in-out;
+
+      }
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
