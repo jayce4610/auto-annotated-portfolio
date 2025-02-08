@@ -4,7 +4,9 @@ title: EzDebt Book
 colors: colors-d
 date: '2021-06-24'
 client: Debt Manager
-description: ''
+description: >-
+  EzDebt Book provides an offline solution for you to manage, check and remind
+  your daily debts.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
