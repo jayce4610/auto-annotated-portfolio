@@ -40,12 +40,6 @@
                 "label": "Contact",
                 "url": "mailto:thisismyemail.@myemail.me",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Behance",
-                "url": "/www.behance.net/chinsiewhui",
-                "altText": ""
             }
         ],
         "contacts": {
