@@ -35,7 +35,7 @@
                 "url": "/info",
                 "altText": "",
                 "showIcon": true,
-                "iconPosition": "right",
+                "iconPosition": "left",
                 "icon": "arrowUpRight"
             },
             {
