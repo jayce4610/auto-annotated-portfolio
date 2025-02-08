@@ -49,7 +49,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Learn more
+        label: my projects
         altText: ''
         url: /projects
         showIcon: false
