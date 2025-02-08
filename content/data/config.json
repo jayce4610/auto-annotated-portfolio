@@ -27,7 +27,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/cropped-Asset-3-edited.png",
+            "url": "/images/cropped-Asset-3-small.png",
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""
