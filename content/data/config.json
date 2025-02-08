@@ -42,7 +42,7 @@
                 "altText": "",
                 "icon": "send",
                 "showIcon": true,
-                "iconPosition": "left"
+                "iconPosition": "right"
             }
         ],
         "contacts": {
