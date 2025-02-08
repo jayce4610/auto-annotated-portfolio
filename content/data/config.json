@@ -11,7 +11,7 @@
             {
                 "type": "Link",
                 "label": "About",
-                "url": "/about"
+                "url": "/info"
             },
             {
                 "type": "Link",
@@ -31,33 +31,27 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "About",
                 "url": "/info",
-                "altText": ""
+                "altText": "",
+                "showIcon": true,
+                "iconPosition": "left",
+                "icon": "arrowUpRight"
             },
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
+                "url": "mailto:siewhui1223@gmail.com",
+                "altText": "",
+                "icon": "mail",
+                "showIcon": true,
+                "iconPosition": "left"
             }
         ],
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "9320 2733",
+            "phoneNumber": "+65 9320 2733",
             "phoneAltText": "My phone number",
             "email": "siewhui1223@gmail.com",
             "emailAltText": "My email",
