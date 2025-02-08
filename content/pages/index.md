@@ -60,7 +60,7 @@ sections:
     showDescription: false
     showFeaturedImage: true
     showReadMoreLink: false
-    variant: variant-d
+    variant: variant-b
     projects:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
