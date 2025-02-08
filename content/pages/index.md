@@ -90,7 +90,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "Let's Chat... \U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
