@@ -48,50 +48,7 @@ sections:
     type: HeroSection
     actions: []
     text: |+
-      <!DOCTYPE html>
 
-      <html lang="en">
-      <head>
-          <meta charset="UTF-8">
-          <meta name="viewport" content="width=device-width, initial-scale=1.0">
-          <title>Animated Portfolio Header</title>
-          \<script src="https\://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
-          <style>
-              body {
-                  font-family: Arial, sans-serif;
-                  text-align: center;
-                  padding: 50px;
-              }
-              h1 {
-                  font-size: 2rem;
-                  max-width: 800px;
-                  margin: auto;
-                  opacity: 0;
-              }
-              p {
-                  font-size: 1rem;
-                  max-width: 600px;
-                  margin: 20px auto;
-                  opacity: 0;
-              }
-          </style>
-      </head>
-      <body>
-          <h1 id="title">
-              I’m a developer, digital artist, consultant and a bunch of other impressive titles and buzz words.
-          </h1>
-          <p id="subtitle">
-              This is my info—I’m sharing it all this with ya’ll to impress you with all the hard work I’ve done in the past few years. 
-              Once you’re impressed, you can continue to scroll down to see more details and credentials about me.
-          </p>
-
-          <script>
-              gsap.from("#title", { duration: 1.5, y: -50, opacity: 0, ease: "power2.out" });
-              gsap.from("#subtitle", { duration: 1.5, y: 50, opacity: 0, ease: "power2.out", delay: 0.5 });
-          </script>
-
-      </body>
-      </html>
 
   - colors: colors-f
     type: FeaturedProjectsSection
