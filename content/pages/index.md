@@ -88,7 +88,7 @@ sections:
         justifyContent: flex-end
     subtitle: Projects
   - type: ContactSection
-    colors: colors-a
+    colors: colors-c
     backgroundSize: full
     title: "Let's Chat... \U0001F4AC"
     form:
