@@ -40,7 +40,8 @@
                 "label": "Contact",
                 "url": "mailto:siewhui1223@gmail.com",
                 "altText": "",
-                "icon": "send"
+                "icon": "send",
+                "showIcon": true
             }
         ],
         "contacts": {
