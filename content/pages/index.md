@@ -48,37 +48,7 @@ sections:
     type: HeroSection
     actions: []
     text: |+
-      <!DOCTYPE html>
 
-      <html lang="en">
-      <head>
-          <meta charset="UTF-8">
-          <meta name="viewport" content="width=device-width, initial-scale=1.0">
-          <title>Animated Heading</title>
-          <style>
-              @keyframes fadeIn {
-                  0% {
-                      opacity: 0;
-                      transform: translateY(-20px);
-                  }
-                  100% {
-                      opacity: 1;
-                      transform: translateY(0);
-                  }
-              }
-
-              h1 {
-                  font-size: 3rem;
-                  text-align: center;
-                  animation: fadeIn 1.5s ease-in-out;
-              }
-          </style>
-
-      </head>
-      <body>
-          <h1>Welcome to My Portfolio</h1>
-      </body>
-      </html>
 
   - colors: colors-f
     type: FeaturedProjectsSection
