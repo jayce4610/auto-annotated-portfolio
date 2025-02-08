@@ -34,7 +34,8 @@
                 "label": "Home",
                 "url": "/info",
                 "altText": "",
-                "showIcon": true
+                "showIcon": true,
+                "iconPosition": "right"
             },
             {
                 "type": "Link",
