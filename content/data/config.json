@@ -51,7 +51,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "9320 2733",
+            "phoneNumber": "+65 9320 2733",
             "phoneAltText": "My phone number",
             "email": "siewhui1223@gmail.com",
             "emailAltText": "My email",
