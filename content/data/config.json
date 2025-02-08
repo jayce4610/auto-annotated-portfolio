@@ -45,7 +45,7 @@
                 "altText": "",
                 "icon": "mail",
                 "showIcon": true,
-                "iconPosition": "right"
+                "iconPosition": "left"
             }
         ],
         "contacts": {
