@@ -51,7 +51,7 @@ sections:
     text: ''
     media:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/cropped-Asset-3-edited.png
       altText: Click to see
       caption: Click to see other things I'm up to
       elementId: ''
