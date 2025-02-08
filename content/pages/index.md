@@ -53,7 +53,7 @@ sections:
         altText: ''
         url: /projects
         showIcon: true
-        icon: apple
+        icon: arrowLeftCircle
         iconPosition: right
         style: secondary
         elementId: ''
