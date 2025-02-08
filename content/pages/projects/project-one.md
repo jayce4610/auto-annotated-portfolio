@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: EzDebt Book
 colors: colors-d
 date: '2021-10-15'
 client: Debt Manager
