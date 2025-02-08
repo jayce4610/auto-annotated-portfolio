@@ -55,7 +55,7 @@ sections:
         showIcon: true
         icon: arrowRightCircle
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
     text: ''
   - colors: colors-c
