@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: EzDebt Book
 colors: colors-d
-date: '2021-06-15'
+date: '2021-06-24'
 client: Debt Manager
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
