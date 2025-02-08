@@ -41,7 +41,8 @@
                 "url": "mailto:siewhui1223@gmail.com",
                 "altText": "",
                 "icon": "send",
-                "showIcon": true
+                "showIcon": true,
+                "iconPosition": "left"
             }
         ],
         "contacts": {
