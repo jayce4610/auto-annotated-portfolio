@@ -53,7 +53,7 @@ sections:
         altText: ''
         url: /projects
         showIcon: true
-        icon: arrowLeftCircle
+        icon: arrowRightCircle
         iconPosition: right
         style: secondary
         elementId: ''
