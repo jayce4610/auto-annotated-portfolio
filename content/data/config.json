@@ -36,7 +36,7 @@
                 "altText": "",
                 "showIcon": true,
                 "iconPosition": "right",
-                "icon": "playCircle"
+                "icon": "googlePlay"
             },
             {
                 "type": "Link",
