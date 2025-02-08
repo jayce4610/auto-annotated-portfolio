@@ -52,7 +52,7 @@ sections:
         label: my projects
         altText: ''
         url: /projects
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
