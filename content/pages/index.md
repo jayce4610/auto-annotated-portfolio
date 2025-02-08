@@ -49,12 +49,6 @@ sections:
     type: HeroSection
     actions: []
     text: ''
-    media:
-      type: ImageBlock
-      url: /images/cropped-Asset-3-edited.png
-      altText: Click to see
-      caption: Click to see other things I'm up to
-      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
