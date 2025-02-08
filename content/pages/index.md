@@ -59,7 +59,7 @@ sections:
         elementId: ''
     text: ''
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: UI UX Design
     actions:
       - type: Link
         label: See all projects
