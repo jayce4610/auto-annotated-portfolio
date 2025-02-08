@@ -47,24 +47,39 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: |
-      /\* Define animation keyframes \*/
+    text: |+
+      <!DOCTYPE html>
 
-      @keyframes fadeIn {
+      <html lang="en">
+      <head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>Animated Heading</title>
+          <style>
+              @keyframes fadeIn {
+                  0% {
+                      opacity: 0;
+                      transform: translateY(-20px);
+                  }
+                  100% {
+                      opacity: 1;
+                      transform: translateY(0);
+                  }
+              }
 
-      from { opacity: 0; }
+              h1 {
+                  font-size: 3rem;
+                  text-align: center;
+                  animation: fadeIn 1.5s ease-in-out;
+              }
+          </style>
 
-      to { opacity: 1; }
+      </head>
+      <body>
+          <h1>Welcome to My Portfolio</h1>
+      </body>
+      </html>
 
-      }
-
-      /\* Apply animation to a heading element \*/
-
-      h1 {
-
-      animation: fadeIn 1s ease-in-out;
-
-      }
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
