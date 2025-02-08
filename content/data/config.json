@@ -43,7 +43,7 @@
                 "label": "Contact",
                 "url": "mailto:siewhui1223@gmail.com",
                 "altText": "",
-                "icon": "send",
+                "icon": "mail",
                 "showIcon": true,
                 "iconPosition": "right"
             }
