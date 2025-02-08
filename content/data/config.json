@@ -33,7 +33,8 @@
                 "type": "Link",
                 "label": "Home",
                 "url": "/info",
-                "altText": ""
+                "altText": "",
+                "showIcon": true
             },
             {
                 "type": "Link",
