@@ -39,7 +39,8 @@
                 "type": "Link",
                 "label": "Contact",
                 "url": "mailto:siewhui1223@gmail.com",
-                "altText": ""
+                "altText": "",
+                "icon": "send"
             }
         ],
         "contacts": {
