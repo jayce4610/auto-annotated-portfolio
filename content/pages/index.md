@@ -52,7 +52,7 @@ sections:
     media:
       type: ImageBlock
       url: 'https://assets.stackbit.com/components/images/default/default-image.png'
-      altText: ''
+      altText: Click to see
       caption: Caption of the image
       elementId: ''
   - colors: colors-f
