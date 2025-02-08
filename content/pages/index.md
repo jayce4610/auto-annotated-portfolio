@@ -53,7 +53,7 @@ sections:
       type: ImageBlock
       url: 'https://assets.stackbit.com/components/images/default/default-image.png'
       altText: Click to see
-      caption: Caption of the image
+      caption: Click to see other things I'm up to
       elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
