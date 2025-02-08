@@ -66,7 +66,7 @@ sections:
         altText: See all projects
         url: /projects
         showIcon: true
-        icon: arrowRight
+        icon: arrowRightCircle
         iconPosition: right
         elementId: ''
     projects:
