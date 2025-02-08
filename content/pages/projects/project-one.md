@@ -4,7 +4,7 @@ title: EzDebt Book
 colors: colors-c
 date: '2021-06-24'
 client: Debt Manager
-description: 'Mobile App: Manage | Check | Remind your daily debts'
+description: Manage | Check | Remind your daily debts
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
