@@ -17,9 +17,10 @@ sections:
       I am a Graphic Designer transitioning into UI/UX to create intuitive and
       engaging digital experiences.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      With over 6 years of graphic design experience, specializing in social
+      media ads and short videos. Driven by a passion for user-friendly design,
+      I am transitioning into UI/UX design to craft intuitive and engaging
+      digital interfaces that enhance user experiences and deliver results.
     styles:
       self:
         height: auto
