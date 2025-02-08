@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-b
     backgroundSize: full
-    title: >-
-      I am a Graphic Designer transitioning into UI/UX to create intuitive and
-      engaging digital experiences.
+    title: ''
     subtitle: >-
       With over 6 years of graphic design experience, specializing in social
       media ads and short videos. Driven by a passion for user-friendly design,
