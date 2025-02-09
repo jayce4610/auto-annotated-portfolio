@@ -250,7 +250,7 @@ bottomSections:
     elementId: ''
     styles:
       self:
-        height: screen
+        height: auto
         width: narrow
         padding:
           - pt-24
