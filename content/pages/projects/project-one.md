@@ -284,7 +284,7 @@ bottomSections:
           - pt-6
           - pb-6
           - pl-20
-          - pr-6
+          - pr-20
         alignItems: center
         justifyContent: flex-start
         flexDirection: row
