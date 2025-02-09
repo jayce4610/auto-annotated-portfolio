@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-b
+    colors: colors-c
     backgroundSize: full
     title: >-
       I'm Siew Hui, a Graphic Designer transitioning into UI/UX to create
@@ -80,6 +80,119 @@ sections:
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: false
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-9
+          - pb-9
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: center
+  - type: FeaturedProjectsSection
+    subtitle: 'Branding:'
+    actions:
+      - type: Link
+        label: See all projects
+        altText: See all projects
+        url: /projects
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+    projects:
+      - content/pages/projects/project-five.md
+      - content/pages/projects/project-six.md
+      - content/pages/projects/project-seven.md
+    colors: colors-d
+    variant: variant-b
+    elementId: ''
+    showDate: false
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-9
+          - pb-9
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: center
+  - type: FeaturedProjectsSection
+    subtitle: 'Videos:'
+    actions:
+      - type: Link
+        label: See all projects
+        altText: See all projects
+        url: /projects
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+    projects:
+      - content/pages/projects/project-eight.md
+      - content/pages/projects/project-nine.md
+      - content/pages/projects/project-ten.md
+    colors: colors-c
+    variant: variant-d
+    elementId: ''
+    showDate: false
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-9
+          - pb-9
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: center
+  - type: FeaturedProjectsSection
+    subtitle: 'Logo:'
+    actions:
+      - type: Link
+        label: See all projects
+        altText: See all projects
+        url: /projects
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+    projects:
+      - content/pages/projects/project-eleven.md
+      - content/pages/projects/project-twelve.md
+    colors: colors-f
+    variant: variant-a
+    elementId: ''
+    showDate: false
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
     styles:
       self:
         height: auto
