@@ -44,40 +44,25 @@ bottomSections:
       text:
         textAlign: center
   - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: Design Concept
-    text: >+
-      The concept of the app is to provide users with the easier way to record
-      debts. All personal debts, credits, bills, and loans can be managed
-      through this application.
-
-
-      *   detailed loan and debt records
-
-
-      *   multiple languages can be selected
-
-
-      *   cloud backup and syncing feature to protect the records completely
-
-
-      *   flexible reminder system to ensure user never miss important due dates
-
-
-      *   professional PDF reports for individuals profiles, loans, or debts
-
-
-      *   multi-currency support 
-
+    colors: colors-d
+    variant: variant-b
+    title: The Section Title
+    subtitle: The section subtitle
+    text: >-
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
+      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
+      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
+      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
     elementId: ''
     styles:
       self:
         height: auto
-        width: narrow
+        width: wide
         padding:
-          - pt-24
-          - pb-24
+          - pt-28
+          - pb-28
           - pl-4
           - pr-4
         justifyContent: center
