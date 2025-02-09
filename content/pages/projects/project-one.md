@@ -85,7 +85,7 @@ bottomSections:
     subtitle: The section subtitle
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Branding
         url: /projects/project-five
       - type: Label
         label: React
