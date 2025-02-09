@@ -51,15 +51,6 @@ bottomSections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Try it now
-        altText: ''
-        url: /projects/project-four
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-      - type: Button
         label: 'Next Project - Go Diary: With Pet'
         altText: ''
         url: /projects/project-two
