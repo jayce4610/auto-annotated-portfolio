@@ -255,7 +255,7 @@ bottomSections:
         label: 'Next Project - Go Diary: With Pet'
         altText: ''
         url: /projects/project-two
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
