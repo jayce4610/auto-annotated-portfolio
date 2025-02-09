@@ -102,7 +102,7 @@ bottomSections:
         height: auto
         width: wide
         padding:
-          - pt-12
+          - pt-14
           - pb-14
           - pl-4
           - pr-4
