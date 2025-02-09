@@ -93,9 +93,6 @@ bottomSections:
       - type: Label
         label: Logo
         url: ''
-      - type: Label
-        label: Swift
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
