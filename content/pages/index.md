@@ -147,7 +147,6 @@ sections:
         elementId: ''
     projects:
       - content/pages/projects/project-eight.md
-      - content/pages/projects/project-three.md
     colors: colors-c
     variant: variant-d
     elementId: ''
