@@ -15,7 +15,7 @@ featuredImage:
   caption: 'Gp Diary: with pet'
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/1.jpg
   altText: Project image
 ---
 
