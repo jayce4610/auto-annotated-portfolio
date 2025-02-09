@@ -44,10 +44,9 @@ bottomSections:
       text:
         textAlign: center
   - type: TextSection
-    colors: colors-d
-    variant: variant-b
+    colors: colors-f
+    variant: variant-a
     title: The Section Title
-    subtitle: The section subtitle
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
@@ -59,7 +58,7 @@ bottomSections:
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         padding:
           - pt-28
           - pb-28
