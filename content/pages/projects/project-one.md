@@ -128,7 +128,7 @@ bottomSections:
       text:
         textAlign: left
   - type: MediaGallerySection
-    title: Production process
+    title: Wireframing
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
