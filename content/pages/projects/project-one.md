@@ -82,7 +82,7 @@ bottomSections:
         justifyContent: flex-start
   - type: LabelsSection
     title: Projects
-    subtitle: The section subtitle
+    subtitle: ''
     items:
       - type: Label
         label: Branding
