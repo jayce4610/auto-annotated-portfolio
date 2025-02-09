@@ -127,6 +127,19 @@ bottomSections:
         textAlign: left
       text:
         textAlign: left
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-0
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
   - type: MediaGallerySection
     title: Wireframing
     subtitle: Design low-fidelity wireframes to structure the layout and navigation
@@ -172,19 +185,6 @@ bottomSections:
         textAlign: center
       subtitle:
         textAlign: center
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: narrow
-        padding:
-          - pt-0
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
   - type: MediaGallerySection
     title: Prototyping
     subtitle: >-
