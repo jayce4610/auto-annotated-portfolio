@@ -60,7 +60,7 @@ bottomSections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: Next
         altText: ''
         url: /projects/project-two
         showIcon: false
