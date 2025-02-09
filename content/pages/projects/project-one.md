@@ -134,7 +134,7 @@ bottomSections:
       self:
         width: narrow
         padding:
-          - pt-0
+          - pt-6
           - pb-12
           - pl-4
           - pr-4
