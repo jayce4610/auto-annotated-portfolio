@@ -16,22 +16,5 @@ media:
   altText: Project image
 bottomSections: []
 ---
-Problem
 
-<div class="rectangle">Hello World</div>
-
-<style>
-  .rectangle {
-      width: 200px;
-      height: 100px;
-      background-color: blue;
-      color: white;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      font-size: 20px;
-      font-weight: bold;
-      border-radius: 10px;
-  }
-</style>
 
