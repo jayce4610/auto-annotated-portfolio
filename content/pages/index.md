@@ -173,7 +173,7 @@ sections:
       actions:
         justifyContent: center
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: 'Logo:'
     actions:
       - type: Link
         label: See all projects
