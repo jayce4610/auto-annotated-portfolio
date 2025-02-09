@@ -60,7 +60,7 @@ bottomSections:
         style: primary
         elementId: ''
       - type: Button
-        label: 'Next Project: Go Diary: With Pet'
+        label: 'Next Project - Go Diary: With Pet'
         altText: ''
         url: /projects/project-two
         showIcon: false
