@@ -81,7 +81,7 @@ bottomSections:
       actions:
         justifyContent: flex-start
   - type: LabelsSection
-    title: Skills
+    title: Projects
     subtitle: The section subtitle
     items:
       - type: Label
