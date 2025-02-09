@@ -81,7 +81,7 @@ bottomSections:
       actions:
         justifyContent: flex-start
   - type: LabelsSection
-    title: Discover More Projects!
+    title: See More of My Creative Work!
     subtitle: 'Take a look at '
     items:
       - type: Label
