@@ -20,14 +20,15 @@ bottomSections:
     variant: variant-a
     title: Problem
     subtitle: ''
-    text: >
+    text: >+
       Many people struggle to keep track of their daily debts, leading to missed
       payments, financial stress, and disorganization. Without a reliable
       offline solution, they risk losing important records or depending on
       unstable internet access.
 
 
-      Target Audience
+      # Target Audience
+
     elementId: ''
     styles:
       self:
