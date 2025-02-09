@@ -32,7 +32,7 @@ bottomSections:
       <style>.rectangle {
             width: 800px;
             height: 100px;
-            background-color: blue;
+            background-color: #3E416C;
             color: white;
             display: flex;
             justify-content: center;
