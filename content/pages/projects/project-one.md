@@ -34,7 +34,7 @@ bottomSections:
             height: 200px;
             padding: 50px;
             background-color: #F1E7F7;
-            color: #23233F;
+            color: black;
             display: flex;
             justify-content: center;
             align-items: center;
