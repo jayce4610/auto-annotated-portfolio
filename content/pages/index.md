@@ -135,7 +135,7 @@ sections:
       actions:
         justifyContent: center
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: 'Videos:'
     actions:
       - type: Link
         label: See all projects
