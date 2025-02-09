@@ -108,7 +108,7 @@ bottomSections:
           - pr-4
         justifyContent: flex-start
         margin:
-          - ml-44
+          - ml-52
           - mr-40
       title:
         textAlign: left
