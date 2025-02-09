@@ -173,7 +173,7 @@ bottomSections:
       subtitle:
         textAlign: center
   - type: MediaGallerySection
-    title: Gallery
+    title: Prototyping
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
