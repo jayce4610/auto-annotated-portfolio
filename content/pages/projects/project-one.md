@@ -32,7 +32,7 @@ bottomSections:
         height: auto
         width: narrow
         padding:
-          - pt-9
+          - pt-12
           - pb-9
           - pl-4
           - pr-4
