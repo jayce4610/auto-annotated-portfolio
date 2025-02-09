@@ -30,7 +30,7 @@ bottomSections:
 
 
       <style>.rectangle {
-            width: 200px;
+            width: 800px;
             height: 100px;
             background-color: blue;
             color: white;
@@ -42,8 +42,6 @@ bottomSections:
             border-radius: 10px;
         }
       </style>
-
-
 
 
       #### Target Audience
