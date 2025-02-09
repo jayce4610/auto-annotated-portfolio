@@ -16,7 +16,7 @@ media:
   altText: Project image
 bottomSections:
   - type: TextSection
-    colors: colors-f
+    colors: colors-d
     variant: variant-a
     title: Problem
     subtitle: ''
