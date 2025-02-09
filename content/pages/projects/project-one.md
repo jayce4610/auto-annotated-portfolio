@@ -33,7 +33,7 @@ bottomSections:
             width: 1000px;
             height: 200px;
             padding: 50px;
-            background-color: #3E416C;
+            background-color: #F1E7F7;
             color: white;
             display: flex;
             justify-content: center;
