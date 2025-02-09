@@ -110,6 +110,7 @@ sections:
     projects:
       - content/pages/projects/project-five.md
       - content/pages/projects/project-six.md
+      - content/pages/projects/project-seven.md
     colors: colors-d
     variant: variant-b
     elementId: ''
