@@ -174,7 +174,9 @@ bottomSections:
         textAlign: center
   - type: MediaGallerySection
     title: Prototyping
-    subtitle: This is the subtitle
+    subtitle: >-
+      Develop high-fidelity designs and interactive prototypes using tools like
+      Figma
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
