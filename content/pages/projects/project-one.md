@@ -282,9 +282,9 @@ bottomSections:
         width: narrow
         padding:
           - pt-6
-          - pb-24
-          - pl-4
-          - pr-4
+          - pb-6
+          - pl-6
+          - pr-6
         alignItems: center
         justifyContent: flex-start
         flexDirection: row
