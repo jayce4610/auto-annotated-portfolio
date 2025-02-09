@@ -148,6 +148,7 @@ sections:
     projects:
       - content/pages/projects/project-eight.md
       - content/pages/projects/project-nine.md
+      - content/pages/projects/project-ten.md
     colors: colors-c
     variant: variant-d
     elementId: ''
