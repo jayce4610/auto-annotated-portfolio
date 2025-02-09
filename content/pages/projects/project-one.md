@@ -30,8 +30,10 @@ bottomSections:
 
 
       <style>.rectangle {
-            width: 800px;
-            height: 100px;
+            width: 1000px;
+            height: 200px;
+
+            padding: 50px;
             background-color: #3E416C;
             color: white;
             display: flex;
