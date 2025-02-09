@@ -185,6 +185,7 @@ sections:
         elementId: ''
     projects:
       - content/pages/projects/project-eleven.md
+      - content/pages/projects/project-twelve.md
     colors: colors-f
     variant: variant-a
     elementId: ''
