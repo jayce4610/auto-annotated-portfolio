@@ -13,7 +13,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/1.png
+  url: /images/12.jpg
   altText: EzDebt Book - Debt Manager
 ---
 
