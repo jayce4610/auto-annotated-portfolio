@@ -104,7 +104,7 @@ bottomSections:
           - pb-36
           - pl-4
           - pr-4
-        justifyContent: flex-end
+        justifyContent: center
         margin:
           - ml-20
           - mr-20
