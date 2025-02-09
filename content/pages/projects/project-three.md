@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Roar Bikes
 colors: colors-a
 date: '2021-06-24'
-client: Debt Manager
+client: ''
 description: 'Manage, check, and remind your daily debts'
 featuredImage:
   type: ImageBlock
