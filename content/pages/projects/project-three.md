@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Debt Manager
+title: EzDebt Book
 colors: colors-a
 date: '2021-06-24'
 client: ''
