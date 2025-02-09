@@ -129,7 +129,7 @@ bottomSections:
         textAlign: left
   - type: MediaGallerySection
     title: Wireframing
-    subtitle: This is the subtitle
+    subtitle: Design low-fidelity wireframes to structure the layout and navigation
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
