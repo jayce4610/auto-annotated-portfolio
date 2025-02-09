@@ -20,11 +20,30 @@ bottomSections:
     variant: variant-a
     title: Problem
     subtitle: ''
-    text: >+
-      Many people struggle to keep track of their daily debts, leading to missed
-      payments, financial stress, and disorganization. Without a reliable
-      offline solution, they risk losing important records or depending on
-      unstable internet access.
+    text: >
+      <div class="rectangle">Many people struggle to keep track of their daily
+      debts, leading to missed payments, financial stress, and disorganization.
+      Without a reliable offline solution, they risk losing important records or
+      depending on unstable internet access.
+
+      </div>
+
+
+      <style>.rectangle {
+            width: 200px;
+            height: 100px;
+            background-color: blue;
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 20px;
+            font-weight: bold;
+            border-radius: 10px;
+        }
+      </style>
+
+
 
 
       #### Target Audience
@@ -32,7 +51,6 @@ bottomSections:
 
       This app is to design for everyone. Whether for small business owner,
       freelancer, or managing personal finances.
-
     elementId: ''
     styles:
       self:
