@@ -14,8 +14,8 @@ sections:
     colors: colors-b
     backgroundSize: full
     title: >-
-      I am a Graphic Designer transitioning into UI/UX to create intuitive and
-      engaging digital experiences.
+      I'm Siew Hui, a Graphic Designer transitioning into UI/UX to create
+      intuitive and engaging digital experiences.
     subtitle: >-
       With over 6 years of graphic design experience, specializing in social
       media ads and short videos. Driven by a passion for user-friendly design,
@@ -47,33 +47,43 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    actions: []
+    actions:
+      - type: Button
+        label: my projects
+        altText: ''
+        url: /projects
+        showIcon: true
+        icon: arrowRightCircle
+        iconPosition: right
+        style: secondary
+        elementId: ''
     text: ''
-  - colors: colors-f
-    type: FeaturedProjectsSection
-    elementId: ''
+  - type: FeaturedProjectsSection
+    subtitle: UI UX Design
     actions:
       - type: Link
         label: See all projects
+        altText: See all projects
         url: /projects
+        showIcon: true
+        icon: arrowRightCircle
+        iconPosition: right
+        elementId: ''
+    projects:
+      - content/pages/projects/project-one.md
+      - content/pages/projects/project-two.md
+      - content/pages/projects/project-three.md
+    colors: colors-c
+    variant: variant-b
+    elementId: ''
     showDate: false
     showDescription: true
     showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
+    showReadMoreLink: false
     styles:
       self:
         height: auto
         width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
           - pt-24
           - pb-24
@@ -85,54 +95,11 @@ sections:
       subtitle:
         textAlign: left
       actions:
-        justifyContent: flex-end
-    subtitle: Projects
-  - type: FeaturedPostsSection
-    elementId: ''
-    colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-48
-          - pl-4
-          - pr-4
         justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
   - type: ContactSection
-    colors: colors-f
+    colors: colors-c
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "Let's Chat... \U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form

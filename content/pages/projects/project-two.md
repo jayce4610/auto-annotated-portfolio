@@ -1,13 +1,10 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: 'Go Diary: With Pet'
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+client: Mobile App
+description: First diary app that has pet features.
 featuredImage:
   type: ImageBlock
   url: /images/1.jpg
@@ -15,7 +12,7 @@ featuredImage:
   caption: 'Gp Diary: with pet'
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/1.jpg
   altText: Project image
 ---
 
