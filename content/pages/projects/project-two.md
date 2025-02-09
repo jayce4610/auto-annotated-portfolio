@@ -4,7 +4,7 @@ title: 'Go Diary: With Pet'
 colors: colors-a
 date: '2021-12-20'
 client: Mobile App
-description: ''
+description: First diary app that has pet features.
 featuredImage:
   type: ImageBlock
   url: /images/1.jpg
