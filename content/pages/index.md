@@ -97,7 +97,7 @@ sections:
       actions:
         justifyContent: center
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: 'Branding:'
     actions:
       - type: Link
         label: See all projects
