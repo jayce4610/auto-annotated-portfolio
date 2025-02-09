@@ -5,12 +5,6 @@ colors: colors-a
 date: '2021-06-24'
 client: ''
 description: Love Every Ride - Online Roar Bikes
-featuredImage:
-  type: ImageBlock
-  url: /images/12.jpg
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
 media:
   type: ImageBlock
   url: /images/12.jpg
