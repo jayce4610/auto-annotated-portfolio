@@ -26,9 +26,6 @@ bottomSections:
       offline solution, they risk losing important records or depending on
       unstable internet access.
 
-
-      ### Target Audience
-
     elementId: ''
     styles:
       self:
