@@ -3,7 +3,7 @@ type: ProjectLayout
 title: EzDebt Book
 colors: colors-a
 date: '2021-06-24'
-client: ''
+client: EzDebt Book
 description: 'Manage, check, and remind your daily debts'
 featuredImage:
   type: ImageBlock
