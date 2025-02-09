@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Debt Manager
 colors: colors-a
 date: '2021-06-24'
-client: EzDebt Book
+client: ''
 description: 'Manage, check, and remind your daily debts'
 featuredImage:
   type: ImageBlock
