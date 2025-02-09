@@ -53,7 +53,7 @@ bottomSections:
       - type: Button
         label: Try it now
         altText: ''
-        url: /
+        url: /projects/project-four
         showIcon: true
         icon: arrowRight
         iconPosition: right
