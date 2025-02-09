@@ -251,7 +251,7 @@ bottomSections:
     styles:
       self:
         height: auto
-        width: narrow
+        width: full
         padding:
           - pt-24
           - pb-24
