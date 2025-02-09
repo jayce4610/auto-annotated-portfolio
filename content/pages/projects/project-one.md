@@ -233,7 +233,7 @@ bottomSections:
       subtitle:
         textAlign: center
   - type: TextSection
-    colors: colors-f
+    colors: colors-d
     variant: variant-a
     title: The Section Title
     text: >-
