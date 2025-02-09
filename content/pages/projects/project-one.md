@@ -109,7 +109,7 @@ bottomSections:
         justifyContent: flex-start
         margin:
           - ml-12
-          - mr-0
+          - mr-12
       title:
         textAlign: left
       subtitle:
