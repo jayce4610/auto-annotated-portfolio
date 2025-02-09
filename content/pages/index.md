@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-b
+    colors: colors-c
     backgroundSize: full
     title: >-
       I'm Siew Hui, a Graphic Designer transitioning into UI/UX to create
