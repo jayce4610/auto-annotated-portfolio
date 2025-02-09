@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: EzDebt Book
 date: '2021-06-24'
-client: Debt Manager
+client: Mobile App | Diary App
 description: 'Manage, check, and remind your daily debts'
 featuredImage:
   type: ImageBlock
