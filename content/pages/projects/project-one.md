@@ -27,7 +27,7 @@ bottomSections:
       unstable internet access.
 
 
-      # Target Audience
+      ### Target Audience
 
     elementId: ''
     styles:
