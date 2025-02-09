@@ -282,7 +282,7 @@ bottomSections:
         width: narrow
         padding:
           - pt-6
-          - pb-6
+          - pb-24
           - pl-20
           - pr-20
         alignItems: center
