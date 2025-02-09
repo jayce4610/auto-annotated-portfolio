@@ -232,19 +232,6 @@ bottomSections:
         textAlign: center
       subtitle:
         textAlign: center
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: narrow
-        padding:
-          - pt-6
-          - pb-6
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
   - type: CtaSection
     title: ''
     text: ''
@@ -279,6 +266,19 @@ bottomSections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-6
+          - pb-6
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
   - type: LabelsSection
     title: See More of My Creative Work!
     subtitle: >-
