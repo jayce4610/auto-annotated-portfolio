@@ -82,7 +82,9 @@ bottomSections:
         justifyContent: flex-start
   - type: LabelsSection
     title: See More of My Creative Work!
-    subtitle: 'Take a look at '
+    subtitle: >-
+      Besides UI/UX, I also do branding, videos, and logos. Take a look and see
+      what I’ve been working on!
     items:
       - type: Label
         label: Branding
