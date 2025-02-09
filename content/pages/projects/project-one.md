@@ -32,7 +32,6 @@ bottomSections:
       <style>.rectangle {
             width: 1000px;
             height: 200px;
-
             padding: 50px;
             background-color: #3E416C;
             color: white;
@@ -40,7 +39,6 @@ bottomSections:
             justify-content: center;
             align-items: center;
             font-size: 20px;
-            font: arial;
             border-radius: 10px;
         }
       </style>
