@@ -7,7 +7,7 @@ client: ''
 description: Love Every Ride - Online Roar Bikes
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/12.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
