@@ -80,7 +80,7 @@ bottomSections:
         height: auto
         width: narrow
         padding:
-          - pt-16
+          - pt-28
           - pb-16
           - pl-4
           - pr-4
