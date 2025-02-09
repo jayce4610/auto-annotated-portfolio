@@ -88,7 +88,7 @@ bottomSections:
         label: Branding
         url: /projects/project-five
       - type: Label
-        label: React
+        label: Videos
         url: ''
       - type: Label
         label: Microsoft Office
