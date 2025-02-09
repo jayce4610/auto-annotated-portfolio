@@ -7,7 +7,7 @@ client: Debt Manager
 description: 'Manage, check, and remind your daily debts'
 featuredImage:
   type: ImageBlock
-  url: /images/1.png
+  url: /images/1.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
