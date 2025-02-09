@@ -6,9 +6,10 @@ client: Mobile App | Diary App
 description: 'Manage, check, and remind your daily debts'
 featuredImage:
   type: ImageBlock
-  url: /images/1.png
-  altText: Project thumbnail image
-  caption: EzDebt Book
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 media:
   type: ImageBlock
   url: /images/1.png
