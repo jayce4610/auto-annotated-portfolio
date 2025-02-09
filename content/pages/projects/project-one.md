@@ -26,6 +26,13 @@ bottomSections:
       offline solution, they risk losing important records or depending on
       unstable internet access.
 
+
+      #### Target Audience
+
+
+      This app is to design for everyone. Whether for small business owner,
+      freelancer, or managing personal finances.
+
     elementId: ''
     styles:
       self:
