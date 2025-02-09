@@ -4,7 +4,7 @@ title: Roar Bikes
 colors: colors-a
 date: '2021-06-24'
 client: ''
-description: 'Manage, check, and remind your daily debts'
+description: Love Every Ride - Online Roar Bikes
 featuredImage:
   type: ImageBlock
   url: /images/1.jpg
