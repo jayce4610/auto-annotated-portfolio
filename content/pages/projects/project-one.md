@@ -128,7 +128,7 @@ bottomSections:
       text:
         textAlign: left
   - type: MediaGallerySection
-    title: UI/UX production process
+    title: Production process
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
