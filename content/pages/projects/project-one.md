@@ -91,7 +91,7 @@ bottomSections:
         label: Videos
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: Logo
         url: ''
       - type: Label
         label: Next.js
