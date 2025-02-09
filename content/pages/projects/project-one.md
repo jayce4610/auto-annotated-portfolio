@@ -47,13 +47,33 @@ bottomSections:
     colors: colors-f
     variant: variant-a
     title: Design Concept
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      The concept of the app is to provide users with the easier way to record
+      debts. All personal debts, credits, bills, and loans can be managed
+      through this application.
+
+
+      Key features are included:
+
+
+      *   Detailed loan and debt records
+
+
+      *   Cloud backup and syncing to Google drive to protect data and access it
+      from anywhere
+
+
+      *   Reminder system to ensure users never miss important due dates
+
+
+      *   Professional PDF reports for individual profiles, loans, or debts
+
+
+      *   Multi-currency support
+
+
+      *   Multi-language support
+
     elementId: ''
     styles:
       self:
