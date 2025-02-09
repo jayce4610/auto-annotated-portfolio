@@ -286,7 +286,7 @@ bottomSections:
           - pl-20
           - pr-20
         alignItems: center
-        justifyContent: flex-start
+        justifyContent: center
         flexDirection: row
       title:
         textAlign: left
