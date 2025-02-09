@@ -12,7 +12,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/1.png
+  url: /images/1.jpg
   altText: Project image
 bottomSections:
   - type: TextSection
