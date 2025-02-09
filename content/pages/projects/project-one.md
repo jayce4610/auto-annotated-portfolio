@@ -105,6 +105,8 @@ bottomSections:
           - pl-4
           - pr-4
         justifyContent: center
+        margin:
+          - ml-20
       title:
         textAlign: left
       subtitle:
