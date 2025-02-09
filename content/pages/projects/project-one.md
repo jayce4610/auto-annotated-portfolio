@@ -246,7 +246,7 @@ bottomSections:
         justifyContent: center
         borderWidth: 1
   - type: CtaSection
-    title: Let's do this
+    title: ''
     text: ''
     actions:
       - type: Button
