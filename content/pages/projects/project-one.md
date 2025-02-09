@@ -322,7 +322,7 @@ bottomSections:
       - type: Label
         label: Logo
         url: ''
-    colors: colors-d
+    colors: colors-c
     elementId: ''
     styles:
       self:
