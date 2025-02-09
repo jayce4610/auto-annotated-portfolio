@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: One more cool project
 colors: colors-a
-date: '2022-06-24'
+date: '2021-06-24'
 client: 'EzDebt Book '
 description: 'Manage, check, and remind your daily debts'
 featuredImage:
