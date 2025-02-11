@@ -4,7 +4,7 @@ title: Roar Bikes
 colors: colors-a
 date: '2021-06-24'
 client: ''
-description: Love Every Ride - Online Roar Bikes
+description: Love Every Ride -  Roar Bikes
 media:
   type: ImageBlock
   url: /images/12.jpg
