@@ -84,13 +84,7 @@ bottomSections:
     variant: variant-b
     title: User Research
     subtitle: User Goals & Pain Points
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: "\U0001F539 **Goals:**\n\n*   Track debts and repayments easily.\n\n*   Get reminders for upcoming payments.\n\n*   Visualize total debt and progress.\n\n\n\n\U0001F538 **Pain Points:**\n\n*   Forgetting due dates, leading to late fees.\n\n*   Lack of clarity on multiple debts.\n\n*   Stress from financial disorganization.\n\n"
     elementId: ''
     styles:
       self:
