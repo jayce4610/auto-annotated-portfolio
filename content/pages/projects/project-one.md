@@ -94,7 +94,7 @@ bottomSections:
           - pt-24
           - pb-24
           - pl-12
-          - pr-4
+          - pr-12
         justifyContent: center
         margin:
           - ml-28
