@@ -4,7 +4,9 @@ title: Roar Bikes
 colors: colors-a
 date: '2021-06-24'
 client: ''
-description: Love Every Ride - Online Roar Bikes
+description: >-
+  ence the thrill of the ride with high-quality bikes, gear, and accessories.
+  Explore our collection and ride with confidence!
 media:
   type: ImageBlock
   url: /images/12.jpg
