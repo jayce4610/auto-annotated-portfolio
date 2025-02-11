@@ -1,10 +1,10 @@
 ---
 type: ProjectLayout
-title: Roar Bikes
+title: Roar Bikes Website
 colors: colors-a
 date: '2021-06-24'
 client: ''
-description: Love Every Ride - Online Roar Bikes
+description: Quality bikes and gear for every ride.
 media:
   type: ImageBlock
   url: /images/12.jpg

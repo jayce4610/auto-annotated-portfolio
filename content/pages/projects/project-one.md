@@ -66,19 +66,32 @@ bottomSections:
         textAlign: center
       text:
         textAlign: center
-  - type: DividerSection
-    title: Divider
+  - type: TextSection
+    colors: colors-d
+    variant: variant-b
+    title: User Research
+    subtitle: User Goals & Pain Points
+    text: "##### \U0001F539 **Goals:**\n\n*   Track debts and repayments easily.\n\n*   Get reminders for upcoming payments.\n\n*   Visualize total debt and progress.\n\n##### \U0001F538 **Pain Points:**\n\n*   Forgetting due dates, leading to late fees.\n\n*   Lack of clarity on multiple debts.\n\n*   Stress from financial disorganization.\n\n"
     elementId: ''
     styles:
       self:
+        height: auto
         width: narrow
         padding:
-          - pt-0
-          - pb-0
-          - pl-4
-          - pr-4
+          - pt-24
+          - pb-24
+          - pl-12
+          - pr-12
         justifyContent: center
-        borderWidth: 1
+        margin:
+          - ml-28
+          - mr-28
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
   - type: TextSection
     colors: colors-f
     variant: variant-a
@@ -235,7 +248,7 @@ bottomSections:
   - type: TextSection
     colors: colors-d
     variant: variant-a
-    title: The Section Title
+    title: Challenges
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
