@@ -97,7 +97,7 @@ bottomSections:
           - pr-4
         justifyContent: center
         margin:
-          - ml-24
+          - ml-28
           - mr-24
       title:
         textAlign: left
