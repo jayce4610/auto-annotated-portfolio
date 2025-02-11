@@ -98,7 +98,7 @@ bottomSections:
         justifyContent: center
         margin:
           - ml-28
-          - mr-24
+          - mr-28
       title:
         textAlign: left
       subtitle:
