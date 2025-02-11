@@ -4,9 +4,7 @@ title: Roar Bikes
 colors: colors-a
 date: '2021-06-24'
 client: ''
-description: >-
-  Experience the thrill of the ride with high-quality bikes, gear, and
-  accessories. Explore our collection and ride with confidence!
+description: Quality bikes and gear for every ride.
 media:
   type: ImageBlock
   url: /images/12.jpg
