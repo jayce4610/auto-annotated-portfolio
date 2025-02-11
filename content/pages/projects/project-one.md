@@ -92,19 +92,6 @@ bottomSections:
         textAlign: left
       text:
         textAlign: left
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: narrow
-        padding:
-          - pt-0
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
   - type: TextSection
     colors: colors-f
     variant: variant-a
