@@ -83,7 +83,7 @@ bottomSections:
     colors: colors-d
     variant: variant-b
     title: User Research
-    subtitle: ''
+    subtitle: User Goals & Pain Points
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
