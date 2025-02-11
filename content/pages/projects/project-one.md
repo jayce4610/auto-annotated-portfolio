@@ -83,7 +83,7 @@ bottomSections:
     colors: colors-d
     variant: variant-b
     title: User Research
-    subtitle: The section subtitle
+    subtitle: ''
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
