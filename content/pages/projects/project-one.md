@@ -84,7 +84,7 @@ bottomSections:
     variant: variant-b
     title: User Research
     subtitle: User Goals & Pain Points
-    text: "\U0001F539 **Goals:**\n\n*   Track debts and repayments easily.\n\n*   Get reminders for upcoming payments.\n\n*   Visualize total debt and progress.\n\n\n\n\U0001F538 **Pain Points:**\n\n*   Forgetting due dates, leading to late fees.\n\n*   Lack of clarity on multiple debts.\n\n*   Stress from financial disorganization.\n\n"
+    text: "<div class=\"wording\">\U0001F539 Goals:</div>\n\n<style>\n  .wording {\n      font-size: 20px;\n      font-weight: bold;\n      }\n</style>\n\n****\n\n*   Track debts and repayments easily.\n\n*   Get reminders for upcoming payments.\n\n*   Visualize total debt and progress.\n\n\U0001F538 **Pain Points:**\n\n*   Forgetting due dates, leading to late fees.\n\n*   Lack of clarity on multiple debts.\n\n*   Stress from financial disorganization.\n\n"
     elementId: ''
     styles:
       self:
