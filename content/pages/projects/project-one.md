@@ -174,7 +174,7 @@ bottomSections:
     media:
       type: ImageBlock
       url: /images/Screenshot 2025-02-13 220932.png
-      altText: Hero image
+      altText: User Flow
       caption: Caption of the image
       elementId: ''
     colors: colors-c
