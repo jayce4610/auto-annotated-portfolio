@@ -153,27 +153,66 @@ bottomSections:
           - pr-4
         justifyContent: center
         borderWidth: 1
+  - type: HeroSection
+    title: User Flow
+    subtitle: >-
+      This specific debt record application user flow helps in structuring how
+      users interact with different features, ensuring ease of use and
+      efficiency.
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/Screenshot 2025-02-13 220932.png
+      altText: User Flow
+      caption: User Flow
+      elementId: ''
+    colors: colors-e
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-28
+          - pr-28
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+        margin:
+          - ml-12
+          - mr-12
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - type: MediaGallerySection
     title: Wireframing
     subtitle: Design low-fidelity wireframes to structure the layout and navigation
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/Screenshot 2025-02-13 223743.png
         altText: Image one
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/Screenshot 2025-02-13 223815.png
         altText: Image two
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-3.jpg
+        url: /images/Screenshot 2025-02-13 223923.png
         altText: Image three
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: /images/Screenshot 2025-02-13 223945.png
         altText: Image four
         caption: Image four caption
         elementId: ''
@@ -205,22 +244,22 @@ bottomSections:
       Figma
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/Screenshot 2025-02-13 224434.png
         altText: Image one
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/Screenshot 2025-02-13 225034.png
         altText: Image two
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-3.jpg
+        url: /images/Screenshot 2025-02-13 225205.png
         altText: Image three
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: /images/Screenshot 2025-02-13 224652.png
         altText: Image four
         caption: Image four caption
         elementId: ''
@@ -249,13 +288,16 @@ bottomSections:
     colors: colors-d
     variant: variant-a
     title: Challenges
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      **User Experience (UX) Complexity** can be a significant challenge when
+      designing a debt record application because financial data can be
+      overwhelming for users. If the app is cluttered or complicated, users may
+      feel frustrated or discouraged from regularly updating their debts. To
+      address this, the design should focus on **simplicity** and **clarity**,
+      with easy navigation, intuitive interfaces, and clear visualizations like
+      charts, progress bars, and summaries. By breaking down complex financial
+      information into digestible segments and using minimalistic design, the
+      app can become more user-friendly and encourage consistent use.
     elementId: ''
     styles:
       self:
