@@ -190,6 +190,8 @@ bottomSections:
         alignItems: center
         justifyContent: center
         flexDirection: row
+        margin:
+          - ml-12
       title:
         textAlign: left
       subtitle:
