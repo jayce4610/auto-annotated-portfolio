@@ -175,7 +175,7 @@ bottomSections:
       type: ImageBlock
       url: /images/Screenshot 2025-02-13 220932.png
       altText: User Flow
-      caption: Caption of the image
+      caption: User Flow
       elementId: ''
     colors: colors-c
     backgroundSize: full
