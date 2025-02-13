@@ -322,7 +322,7 @@ bottomSections:
       - type: Button
         label: 'Next Project - Go Diary: With Pet'
         altText: ''
-        url: /info
+        url: /projects/go-diary
         showIcon: true
         icon: arrowRightCircle
         iconPosition: right
