@@ -163,7 +163,7 @@ bottomSections:
       - type: Button
         label: User Flow Chart
         altText: ''
-        url: /
+        url: /user-flow-chart
         showIcon: true
         icon: arrowRight
         iconPosition: right
