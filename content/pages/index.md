@@ -71,6 +71,7 @@ sections:
         elementId: ''
     projects:
       - content/pages/projects/project-one.md
+      - content/pages/projects/go-diary.md
     colors: colors-c
     variant: variant-b
     elementId: ''
