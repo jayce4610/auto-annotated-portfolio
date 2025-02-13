@@ -159,16 +159,7 @@ bottomSections:
       This specific debt record application user flow helps in structuring how
       users interact with different features, ensuring ease of use and
       efficiency.
-    actions:
-      - type: Button
-        label: User Flow Chart
-        altText: ''
-        url: /user-flow-chart
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/Screenshot 2025-02-13 220932.png
