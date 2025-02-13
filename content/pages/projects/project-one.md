@@ -197,7 +197,7 @@ bottomSections:
     subtitle: Design low-fidelity wireframes to structure the layout and navigation
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/Screenshot 2025-02-13 223743.png
         altText: Image one
         caption: Image one caption
         elementId: ''
