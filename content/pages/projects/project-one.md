@@ -244,7 +244,7 @@ bottomSections:
       Figma
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/Screenshot 2025-02-13 224434.png
         altText: Image one
         caption: Image one caption
         elementId: ''
