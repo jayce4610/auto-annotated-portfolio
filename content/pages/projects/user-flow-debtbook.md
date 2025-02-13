@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: User Flow Chart
 date: '2025-02-13'
-client: ''
+client: EzDebt Book
 description: >-
   This user flow ensures a smooth and intuitive experience by guiding users
   through key features like adding records, setting reminders, viewing
