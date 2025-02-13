@@ -175,7 +175,7 @@ bottomSections:
       altText: User Flow
       caption: User Flow
       elementId: ''
-    colors: colors-c
+    colors: colors-e
     backgroundSize: full
     elementId: ''
     styles:
