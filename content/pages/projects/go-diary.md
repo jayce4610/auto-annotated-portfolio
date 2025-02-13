@@ -3,7 +3,7 @@ type: ProjectLayout
 title: 'Go Diary: With Pet'
 date: '2021-06-24'
 client: Mobile App | Diary App
-description: 'Manage, check, and remind your daily debts'
+description: First diary app that has pet features
 featuredImage:
   type: ImageBlock
   url: /images/1.jpg
