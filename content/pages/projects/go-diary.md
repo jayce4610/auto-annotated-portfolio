@@ -51,7 +51,7 @@ bottomSections:
       any layout and any screen.
     actions:
       - type: Button
-        label: 'Next Project - Go Diary: With Pet'
+        label: Next Project - Roar Bikes Website
         altText: ''
         url: /projects/project-two
         showIcon: false
