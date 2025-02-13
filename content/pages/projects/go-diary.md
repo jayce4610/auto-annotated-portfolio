@@ -3,7 +3,7 @@ type: ProjectLayout
 title: 'Go Diary: With Pet'
 date: '2021-06-24'
 client: Mobile App | Diary App
-description: 'Manage, check, and remind your daily debts'
+description: First diary app that has pet features
 featuredImage:
   type: ImageBlock
   url: /images/1.jpg
@@ -18,8 +18,8 @@ bottomSections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: The Section Title
-    subtitle: The section subtitle
+    title: Problem
+    subtitle: ''
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
@@ -51,9 +51,9 @@ bottomSections:
       any layout and any screen.
     actions:
       - type: Button
-        label: 'Next Project - Go Diary: With Pet'
+        label: Next Project - Roar Bikes Website
         altText: ''
-        url: /projects/project-two
+        url: /info
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -115,7 +115,7 @@ bottomSections:
       subtitle:
         textAlign: left
 metaTags: []
-colors: colors-c
+colors: colors-a
 ---
 
 
