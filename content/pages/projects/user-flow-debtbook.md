@@ -22,7 +22,7 @@ media:
   type: ImageBlock
   url: /images/Screenshot 2025-02-13 220932.png
   altText: Project image
-  caption: Caption of the image
+  caption: User Flow Chart
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
