@@ -53,7 +53,7 @@ bottomSections:
       - type: Button
         label: Next Project - Roar Bikes Website
         altText: ''
-        url: /projects/project-two
+        url: /info
         showIcon: false
         icon: arrowRight
         iconPosition: right
