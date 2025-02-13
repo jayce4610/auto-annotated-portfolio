@@ -249,13 +249,16 @@ bottomSections:
     colors: colors-d
     variant: variant-a
     title: Challenges
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      **User Experience (UX) Complexity** can be a significant challenge when
+      designing a debt record application because financial data can be
+      overwhelming for users. If the app is cluttered or complicated, users may
+      feel frustrated or discouraged from regularly updating their debts. To
+      address this, the design should focus on **simplicity** and **clarity**,
+      with easy navigation, intuitive interfaces, and clear visualizations like
+      charts, progress bars, and summaries. By breaking down complex financial
+      information into digestible segments and using minimalistic design, the
+      app can become more user-friendly and encourage consistent use.
     elementId: ''
     styles:
       self:
