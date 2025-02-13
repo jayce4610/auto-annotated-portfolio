@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: user-flow-debtbook
 date: '2025-02-13'
-client: Awesome client
+client: ''
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
