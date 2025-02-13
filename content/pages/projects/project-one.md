@@ -161,7 +161,7 @@ bottomSections:
       efficiency.
     actions:
       - type: Button
-        label: Hire me
+        label: Expand Image
         altText: ''
         url: /
         showIcon: true
