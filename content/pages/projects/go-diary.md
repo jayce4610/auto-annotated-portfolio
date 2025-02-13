@@ -115,7 +115,7 @@ bottomSections:
       subtitle:
         textAlign: left
 metaTags: []
-colors: colors-e
+colors: colors-a
 ---
 
 
