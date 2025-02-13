@@ -161,7 +161,7 @@ bottomSections:
       efficiency.
     actions:
       - type: Button
-        label: Expand Image
+        label: Enlarge Image
         altText: ''
         url: /
         showIcon: true
