@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: user-flow-debtbook
+title: User Flow Chart
 date: '2025-02-13'
 client: ''
 description: >-
