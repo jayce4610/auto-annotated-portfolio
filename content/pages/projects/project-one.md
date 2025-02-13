@@ -192,6 +192,7 @@ bottomSections:
         flexDirection: row
         margin:
           - ml-12
+          - mr-12
       title:
         textAlign: left
       subtitle:
