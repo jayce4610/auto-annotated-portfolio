@@ -161,7 +161,7 @@ bottomSections:
       efficiency.
     actions:
       - type: Button
-        label: Enlarge Image
+        label: User Flow Chart
         altText: ''
         url: /
         showIcon: true
