@@ -207,7 +207,7 @@ bottomSections:
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-3.jpg
+        url: /images/Screenshot 2025-02-13 223923.png
         altText: Image three
         caption: Image three caption
         elementId: ''
