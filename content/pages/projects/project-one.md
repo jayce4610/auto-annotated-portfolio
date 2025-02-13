@@ -184,7 +184,7 @@ bottomSections:
         width: wide
         padding:
           - pt-24
-          - pb-48
+          - pb-24
           - pl-4
           - pr-4
         alignItems: center
