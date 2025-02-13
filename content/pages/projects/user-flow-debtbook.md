@@ -21,7 +21,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Screenshot 2025-02-13 220932.png
-  altText: Project image
+  altText: User Flow Chart
   caption: User Flow Chart
   elementId: ''
 addTitleSuffix: true
