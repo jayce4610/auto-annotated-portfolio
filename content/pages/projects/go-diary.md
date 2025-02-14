@@ -43,7 +43,7 @@ bottomSections:
         margin:
           - ml-12
           - mr-12
-        borderWidth: 0
+        borderWidth: 1
         borderStyle: double
         borderRadius: xx-large
       quote:
