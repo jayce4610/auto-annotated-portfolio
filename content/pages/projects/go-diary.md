@@ -40,6 +40,8 @@ bottomSections:
           - pl-28
           - pr-28
         justifyContent: center
+        margin:
+          - ml-12
       quote:
         textAlign: left
       name:
