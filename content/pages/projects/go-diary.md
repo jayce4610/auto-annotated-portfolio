@@ -38,7 +38,7 @@ bottomSections:
           - pt-9
           - pb-9
           - pl-28
-          - pr-4
+          - pr-28
         justifyContent: center
       quote:
         textAlign: left
