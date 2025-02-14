@@ -59,11 +59,28 @@ bottomSections:
     variant: variant-a
     title: Problem
     subtitle: ''
-    text: >
-      Many people struggle to maintain a daily journaling habit due to a lack of
-      motivation, emotional engagement, or time. Traditional diary apps feel
-      static and uninspiring, making it easy for users to abandon their
-      journaling routines.
+    text: >+
+      ### **Problem Statement**
+
+
+      1.  **Lack of Interest in Traditional Journaling** – Young users find
+      writing in a diary boring or feel unmotivated to continue.
+
+
+      2.  **Fear of Judgment & Privacy Concerns** – Many children and teenagers
+      worry that someone might read their personal thoughts, making them
+      hesitant to write openly.
+
+
+      3.  **Difficulty Expressing Emotions** – Some young users struggle to put
+      their thoughts and feelings into words, leading to frustration or
+      avoidance of journaling.
+
+
+      4.  **No Immediate Reward or Engagement** – Traditional diary apps feel
+      static and do not provide real-time engagement, making it easy for users
+      to lose interest.
+
     elementId: ''
     styles:
       self:
