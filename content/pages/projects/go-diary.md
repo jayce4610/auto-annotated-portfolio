@@ -58,13 +58,11 @@ bottomSections:
     variant: variant-a
     title: Problem
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      Many people struggle to maintain a daily journaling habit due to a lack of
+      motivation, emotional engagement, or time. Traditional diary apps feel
+      static and uninspiring, making it easy for users to abandon their
+      journaling routines.
     elementId: ''
     styles:
       self:
