@@ -22,12 +22,9 @@ bottomSections:
 
       ##### Go Diary: With Pet is a diary app that combines journaling with a
       unique pet companion feature. Unlike traditional diary apps, Go Diary
-      introduces an interactive virtual pet that grows, makes journaling fun and
-      safe for young users.
-
-
-
-
+      introduces an interactive virtual pet that grows, this unique feature
+      makes journaling more engaging, safe, and emotionally rewarding,
+      encouraging young users to develop a consistent habit of self-expression.
 
     name: ''
     title: _
