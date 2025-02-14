@@ -25,7 +25,7 @@ bottomSections:
       Diary introduces an interactive virtual pet that grows, offering emotional
       support and motivation to maintain a consistent journaling habit.
     name: ''
-    title: Product Marketing Manager at Acme
+    title: ''
     colors: colors-f
     elementId: ''
     styles:
