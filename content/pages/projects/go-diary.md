@@ -43,6 +43,7 @@ bottomSections:
         margin:
           - ml-12
           - mr-12
+        borderWidth: 2
       quote:
         textAlign: left
       name:
