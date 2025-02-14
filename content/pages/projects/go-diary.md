@@ -24,7 +24,7 @@ bottomSections:
       with a unique pet companion feature. Unlike traditional diary apps, Go
       Diary introduces an interactive virtual pet that grows, offering emotional
       support and motivation to maintain a consistent journaling habit.
-    name: Johnna Doe
+    name: ''
     title: Product Marketing Manager at Acme
     colors: colors-f
     elementId: ''
