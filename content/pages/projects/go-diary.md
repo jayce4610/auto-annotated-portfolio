@@ -45,7 +45,7 @@ bottomSections:
           - mr-12
         borderWidth: 0
         borderStyle: dashed
-        borderRadius: medium
+        borderRadius: xx-large
       quote:
         textAlign: left
       name:
