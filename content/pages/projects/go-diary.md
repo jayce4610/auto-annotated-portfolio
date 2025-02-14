@@ -103,13 +103,11 @@ bottomSections:
     variant: variant-a
     title: Target Audience
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      This app is designed for children and teenagers who find traditional
+      journaling unappealing or fear judgment, as well as parents, educators,
+      and young adults seeking a fun, safe, and interactive way to encourage
+      self-expression and emotional growth.
     elementId: ''
     styles:
       self:
