@@ -27,7 +27,7 @@ bottomSections:
       habit.
 
     name: ''
-    title: App Summary
+    title: _
     colors: colors-f
     elementId: ''
     styles:
