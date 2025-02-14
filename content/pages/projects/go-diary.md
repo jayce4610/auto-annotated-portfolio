@@ -42,6 +42,7 @@ bottomSections:
         justifyContent: center
         margin:
           - ml-12
+          - mr-12
       quote:
         textAlign: left
       name:
