@@ -15,6 +15,37 @@ media:
   url: /images/1.jpg
   altText: Project image
 bottomSections:
+  - type: QuoteSection
+    quote: >
+      #### **App Summary**
+
+
+      Go Diary: With Pet is a revolutionary diary app that combines journaling
+      with a unique pet companion feature. Unlike traditional diary apps, Go
+      Diary introduces an interactive virtual pet that grows, offering emotional
+      support and motivation to maintain a consistent journaling habit.
+    name: Johnna Doe
+    title: Product Marketing Manager at Acme
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      quote:
+        textAlign: left
+      name:
+        fontWeight": 500
+        textAlign: left
+      title:
+        fontWeight": 400
+        textAlign: left
   - type: TextSection
     colors: colors-f
     variant: variant-a
