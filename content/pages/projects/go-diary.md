@@ -102,6 +102,7 @@ bottomSections:
     colors: colors-f
     variant: variant-a
     title: The Section Title
+    subtitle: The section subtitle
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
@@ -121,11 +122,11 @@ bottomSections:
           - pr-4
         justifyContent: center
       title:
-        textAlign: left
+        textAlign: center
       subtitle:
-        textAlign: left
+        textAlign: center
       text:
-        textAlign: left
+        textAlign: center
   - type: CtaSection
     title: Let's do this
     text: >-
