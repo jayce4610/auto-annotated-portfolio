@@ -60,7 +60,7 @@ bottomSections:
     title: Problem
     subtitle: ''
     text: >+
-      ### **Problem Statement**
+      ****
 
 
       1.  **Lack of Interest in Traditional Journaling** – Young users find
