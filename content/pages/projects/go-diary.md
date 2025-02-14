@@ -44,7 +44,7 @@ bottomSections:
           - ml-12
           - mr-12
         borderWidth: 0
-        borderStyle: dashed
+        borderStyle: double
         borderRadius: xx-large
       quote:
         textAlign: left
