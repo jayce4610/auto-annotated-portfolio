@@ -44,6 +44,7 @@ bottomSections:
           - ml-12
           - mr-12
         borderWidth: 0
+        borderStyle: solid
       quote:
         textAlign: left
       name:
