@@ -60,26 +60,19 @@ bottomSections:
     title: Problem
     subtitle: ''
     text: >+
-      ****
+      ***
 
 
-      1.  **Lack of Interest in Traditional Journaling** – Young users find
-      writing in a diary boring or feel unmotivated to continue.
-
-
-      2.  **Fear of Judgment & Privacy Concerns** – Many children and teenagers
-      worry that someone might read their personal thoughts, making them
-      hesitant to write openly.
-
-
-      3.  **Difficulty Expressing Emotions** – Some young users struggle to put
-      their thoughts and feelings into words, leading to frustration or
-      avoidance of journaling.
-
-
-      4.  **No Immediate Reward or Engagement** – Traditional diary apps feel
-      static and do not provide real-time engagement, making it easy for users
-      to lose interest.
+      <div style="text-align: left">.   **Lack of Interest in Traditional
+      Journaling** – Young users find writing in a diary boring or feel
+      unmotivated to continue..   **Fear of Judgment & Privacy Concerns** – Many
+      children and teenagers worry that someone might read their personal
+      thoughts, making them hesitant to write openly..   **Difficulty Expressing
+      Emotions** – Some young users struggle to put their thoughts and feelings
+      into words, leading to frustration or avoidance of journaling..   **No
+      Immediate Reward or Engagement** – Traditional diary apps feel static and
+      do not provide real-time engagement, making it easy for users to lose
+      interest.</div>
 
     elementId: ''
     styles:
