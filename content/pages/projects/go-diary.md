@@ -28,7 +28,7 @@ bottomSections:
 
     name: ''
     title: _
-    colors: colors-d
+    colors: colors-e
     elementId: ''
     styles:
       self:
