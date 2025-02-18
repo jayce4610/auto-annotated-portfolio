@@ -179,6 +179,7 @@ bottomSections:
         textAlign: left
       text:
         textAlign: left
+    subtitle: User Goals & Pain Points
   - type: DividerSection
     title: Divider
     elementId: ''
