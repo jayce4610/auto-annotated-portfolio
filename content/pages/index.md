@@ -72,6 +72,7 @@ sections:
     projects:
       - content/pages/projects/project-one.md
       - content/pages/projects/go-diary.md
+      - content/pages/projects/website-roar-bike.md
     colors: colors-c
     variant: variant-b
     elementId: ''
