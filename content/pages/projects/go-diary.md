@@ -364,7 +364,7 @@ bottomSections:
         iconPosition: right
         style: primary
         elementId: ''
-    colors: colors-a
+    colors: colors-e
     backgroundSize: full
     elementId: ''
     styles:
