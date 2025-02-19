@@ -162,14 +162,11 @@ bottomSections:
       *   **Make Journaling Fun & Engaging** – Users want an interactive and
       rewarding experience rather than just writing in a blank diary.
 
-      *    **Build a Safe Space for Expression** – Users need a private and
+      *   **Build a Safe Space for Expression** – Users need a private and
       judgment-free environment to share their feelings comfortably.
 
-      *    **Develop a Habit of Self-Expression** – The app should help users
+      *   **Develop a Habit of Self-Expression** – The app should help users
       consistently write about their thoughts and emotions in an enjoyable way.
-
-
-      ####
 
 
       User Pain Points
