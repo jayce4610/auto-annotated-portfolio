@@ -289,7 +289,7 @@ bottomSections:
           - pt-28
           - pb-28
           - pl-28
-          - pr-4
+          - pr-28
         justifyContent: center
       title:
         textAlign: left
