@@ -377,8 +377,13 @@ bottomSections:
   - type: CtaSection
     title: See More of My Creative Work!
     text: >
-      Besides UI/UX, I also do branding, videos, and logos. Take a look and see
-      what I’ve been working on!
+      The main challenges for this application are including to keep users
+      engaged in journaling without the pet feature overshadowing its purpose
+      and ensuring privacy and security for young users. Balancing gamification
+      is crucial to maintaining motivation without turning the app into just a
+      pet-care game. Additionally, as a small team, continuously updating pet
+      interactions, animations, and dialogues may be challenging, requiring
+      efficient content management.
     actions:
       - type: Button
         label: Next Project - Roar Bikes Website
