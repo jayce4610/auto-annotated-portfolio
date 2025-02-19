@@ -376,9 +376,9 @@ bottomSections:
         textAlign: left
   - type: CtaSection
     title: See More of My Creative Work!
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      Besides UI/UX, I also do branding, videos, and logos. Take a look and see
+      what I’ve been working on!
     actions:
       - type: Button
         label: Next Project - Roar Bikes Website
