@@ -269,7 +269,7 @@ bottomSections:
       text:
         textAlign: left
   - type: TextSection
-    colors: colors-d
+    colors: colors-e
     variant: variant-b
     title: User Flow
     subtitle: The section subtitle
