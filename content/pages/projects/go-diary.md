@@ -382,6 +382,8 @@ bottomSections:
         alignItems: center
         justifyContent: center
         flexDirection: col
+        margin:
+          - ml-12
       title:
         textAlign: left
       text:
