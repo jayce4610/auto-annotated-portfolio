@@ -375,7 +375,7 @@ bottomSections:
       text:
         textAlign: left
   - type: CtaSection
-    title: See More of My Creative Work!
+    title: Challenges
     text: >
       The main challenges for this application are including to keep users
       engaged in journaling without the pet feature overshadowing its purpose
