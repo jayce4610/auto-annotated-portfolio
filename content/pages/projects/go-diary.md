@@ -218,13 +218,39 @@ bottomSections:
     colors: colors-f
     variant: variant-a
     title: Design Concept
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      Focusing on an intuitive interface, the main goal of the application is to
+      provide a simple way for user to record moments at any time. 
+
+      Go Diary: With Pet combines journaling with a cute virtual pet that
+      interacts with users. The app features a soft, playful design with vibrant
+      yet calming colors. Users log in daily to redeem in-game currency to buy
+      food for their pet, encouraging consistent journaling. As they write, they
+      unlock new pet motions and dialogues, making the experience rewarding and
+      engaging. The interactive and gamified design ensures users stay motivated
+      while expressing their thoughts in a fun, safe, and private space.
+
+
+
+
+      Key features are included:
+
+
+      1.  Easy layout for user to add their moment at anytime.
+
+
+      2.  Categorization and pin diaries.
+
+
+      3.  Keep and view your precious moments in one place.
+
+
+      4.  Protect your private diaries entries with fingerprint and 6 digits of
+      passcode lock.
+
+
+      5.  Keep diary with cute virtual pet.
+
     elementId: ''
     styles:
       self:
