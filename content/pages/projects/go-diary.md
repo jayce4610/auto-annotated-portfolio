@@ -17,7 +17,7 @@ media:
 bottomSections:
   - type: QuoteSection
     quote: >+
-      ##### **App Summary**
+      #### **App Summary**
 
 
       ##### Go Diary: With Pet is a diary app that combines journaling with a
