@@ -155,13 +155,15 @@ bottomSections:
     colors: colors-f
     variant: variant-a
     title: User Research
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      #### 
+
+      **User Goals***   **Make Journaling Fun & Engaging** – Users want an
+      interactive and rewarding experience rather than just writing in a blank
+      diary.*   **Build a Safe Space for Expression** – Users need a private and
+      judgment-free environment to share their feelings comfortably.*  
+      **Develop a Habit of Self-Expression** – The app should help users
+      consistently write about their thoughts and emotions in an enjoyable way.
     elementId: ''
     styles:
       self:
