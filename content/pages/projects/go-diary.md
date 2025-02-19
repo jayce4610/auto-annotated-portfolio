@@ -344,36 +344,6 @@ bottomSections:
         textAlign: center
       subtitle:
         textAlign: center
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: Challenges
-    text: >+
-      The main challenges for this application are including to keep users
-      engaged in journaling without the pet feature overshadowing its purpose
-      and ensuring privacy and security for young users. Balancing gamification
-      is crucial to maintaining motivation without turning the app into just a
-      pet-care game. Additionally, as a small team, continuously updating pet
-      interactions, animations, and dialogues may be challenging, requiring
-      efficient content management.
-
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - type: CtaSection
     title: Challenges
     text: >
