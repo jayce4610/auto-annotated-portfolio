@@ -169,7 +169,7 @@ bottomSections:
       consistently write about their thoughts and emotions in an enjoyable way.
 
 
-      User Pain Points
+      #### User Pain Points
 
 
       *   **Boredom & Lack of Motivation** – Young users easily lose interest in
