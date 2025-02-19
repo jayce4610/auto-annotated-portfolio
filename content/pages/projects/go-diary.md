@@ -377,7 +377,7 @@ bottomSections:
         padding:
           - pt-24
           - pb-24
-          - pl-4
+          - pl-28
           - pr-4
         alignItems: center
         justifyContent: center
