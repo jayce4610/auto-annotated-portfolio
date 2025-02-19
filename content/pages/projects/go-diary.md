@@ -348,13 +348,12 @@ bottomSections:
     colors: colors-f
     variant: variant-a
     title: Challenges
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      The main challenges for this application are including to keep users
+      engaged in journaling without the pet feature overshadowing its purpose
+      and ensuring privacy and security for young users. Balancing gamification
+      is crucial to maintaining motivation without turning the app into just a
+      pet-care game.
     elementId: ''
     styles:
       self:
