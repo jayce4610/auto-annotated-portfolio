@@ -384,6 +384,7 @@ bottomSections:
         flexDirection: col
         margin:
           - ml-12
+          - mr-12
       title:
         textAlign: left
       text:
