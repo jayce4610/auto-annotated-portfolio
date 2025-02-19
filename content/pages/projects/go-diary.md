@@ -288,7 +288,7 @@ bottomSections:
         padding:
           - pt-28
           - pb-28
-          - pl-4
+          - pl-28
           - pr-4
         justifyContent: center
       title:
