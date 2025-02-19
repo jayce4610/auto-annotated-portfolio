@@ -27,7 +27,7 @@ bottomSections:
       encouraging young users to develop a consistent habit of self-expression.
 
     name: ''
-    title: ______________________
+    title: .
     colors: colors-e
     elementId: ''
     styles:
