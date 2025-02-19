@@ -17,7 +17,7 @@ media:
 bottomSections:
   - type: QuoteSection
     quote: >+
-      ##### **App Summary**
+      #### **App Summary**
 
 
       ##### Go Diary: With Pet is a diary app that combines journaling with a
@@ -27,7 +27,7 @@ bottomSections:
       encouraging young users to develop a consistent habit of self-expression.
 
     name: ''
-    title: _
+    title: ''
     colors: colors-e
     elementId: ''
     styles:
@@ -35,16 +35,16 @@ bottomSections:
         height: auto
         width: wide
         padding:
-          - pt-12
-          - pb-12
+          - pt-16
+          - pb-16
           - pl-28
           - pr-28
         justifyContent: center
         margin:
           - ml-12
           - mr-12
-        borderWidth: 2
-        borderStyle: double
+        borderWidth: 1
+        borderStyle: none
         borderRadius: xx-large
       quote:
         textAlign: left
@@ -155,13 +155,34 @@ bottomSections:
     colors: colors-f
     variant: variant-a
     title: User Research
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      #### User Goals
+
+
+      *   **Make Journaling Fun & Engaging** – Users want an interactive and
+      rewarding experience rather than just writing in a blank diary.
+
+      *   **Build a Safe Space for Expression** – Users need a private and
+      judgment-free environment to share their feelings comfortably.
+
+      *   **Develop a Habit of Self-Expression** – The app should help users
+      consistently write about their thoughts and emotions in an enjoyable way.
+
+
+      #### User Pain Points
+
+
+      *   **Boredom & Lack of Motivation** – Young users easily lose interest in
+      plain text-based diary apps.
+
+
+      *   **Fear of Being Judged** – Worrying about others reading their diary
+      discourages honest self-expression.
+
+
+      *   **Difficulty Putting Emotions into Words** – Users may struggle to
+      articulate their feelings.
+
     elementId: ''
     styles:
       self:
@@ -193,23 +214,43 @@ bottomSections:
           - pr-4
         justifyContent: center
         borderWidth: 1
-  - type: CtaSection
-    title: Let's do this
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
-    actions:
-      - type: Button
-        label: Next Project - Roar Bikes Website
-        altText: ''
-        url: /info
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+  - type: TextSection
     colors: colors-f
-    backgroundSize: full
+    variant: variant-a
+    title: Design Concept
+    text: >+
+      Focusing on an intuitive interface, the main goal of the application is to
+      provide a simple way for user to record moments at any time. 
+
+      Go Diary: With Pet combines journaling with a cute virtual pet that
+      interacts with users. The app features a soft, playful design with vibrant
+      yet calming colors. Users log in daily to redeem in-game currency to buy
+      food for their pet, encouraging consistent journaling. As they write, they
+      unlock new pet motions and dialogues, making the experience rewarding and
+      engaging. The interactive and gamified design ensures users stay motivated
+      while expressing their thoughts in a fun, safe, and private space.
+
+
+
+
+      Key features are included:
+
+
+      1.  Easy layout for user to add their moment at anytime.
+
+
+      2.  Categorization and pin diaries.
+
+
+      3.  Keep and view your precious moments in one place.
+
+
+      4.  Protect your private diaries entries with fingerprint and 6 digits of
+      passcode lock.
+
+
+      5.  Keep diary with cute virtual pet.
+
     elementId: ''
     styles:
       self:
@@ -220,9 +261,130 @@ bottomSections:
           - pb-28
           - pl-4
           - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+  - type: TextSection
+    colors: colors-e
+    variant: variant-b
+    title: User Flow
+    subtitle: The section subtitle
+    text: >-
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
+      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
+      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
+      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-28
+          - pr-28
+        justifyContent: center
+        margin:
+          - ml-12
+          - mr-12
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+  - type: MediaGallerySection
+    title: Prototyping
+    subtitle: >-
+      Develop high-fidelity designs and interactive prototypes using tools like
+      Figma
+    images:
+      - type: ImageBlock
+        url: /images/gallery-1.jpg
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/gallery-2.jpg
+        altText: Image two
+        caption: Image two caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/gallery-3.jpg
+        altText: Image three
+        caption: Image three caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/gallery-4.jpg
+        altText: Image four
+        caption: Image four caption
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 4
+    aspectRatio: '4:3'
+    showCaption: false
+    enableHover: true
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+  - type: CtaSection
+    title: Challenges
+    text: >
+      The main challenges for this application are including to keep users
+      engaged in journaling without the pet feature overshadowing its purpose
+      and ensuring privacy and security for young users. Balancing gamification
+      is crucial to maintaining motivation without turning the app into just a
+      pet-care game. Additionally, as a small team, continuously updating pet
+      interactions, animations, and dialogues may be challenging, requiring
+      efficient content management.
+    actions:
+      - type: Button
+        label: Next Project - Roar Bikes Website
+        altText: ''
+        url: /info
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-e
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-24
+          - pb-24
+          - pl-28
+          - pr-28
         alignItems: center
         justifyContent: center
         flexDirection: col
+        margin:
+          - ml-12
+          - mr-12
       title:
         textAlign: left
       text:
